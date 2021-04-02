@@ -1,7 +1,7 @@
 #Instagramクローンアプリ
 
 ・使用技術
-<br>開発言語 フロント→javascript(React.js)　バックエンド→python(Django RESTFramework)
+<br>開発言語 フロント→javascript(React.js)　バックエンド→python(Django RESTframework)
 <br>データベース　　SQLite
 
 
